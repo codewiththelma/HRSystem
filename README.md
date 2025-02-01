@@ -18,7 +18,7 @@ A simple HR management system built with Java, prepopulated with employees and d
 
 ## Live Demo
 
-You can try shopmate live here: [Shopmate](https://www.online-java.com/Wuc9zhNGSY)
+You can try shopmate live here: [HRSystem](https://www.online-java.com/Wuc9zhNGSY)
 
 ## License
 
